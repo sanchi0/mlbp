@@ -1,0 +1,7 @@
+package sanchi;
+public class Sanchi{
+public static void main(String[] args)
+{
+System.out.println("Hello,Im Sanchi")
+}
+}
